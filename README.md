@@ -1,3 +1,19 @@
+<!-- CH Repo Tracking Data version 1.0.2 -->
+|     Category     |         Value         |
+| ---------------: | --------------------- |
+| **Repo Status**  | deprecated |
+| **Language**     | Go          |
+| **Repo Owner**   |   |
+<!-- If you use any of the following fields, please delete "Repo Owner", above,
+     as it then becomes ambiguous.  If you add fields, please update the script
+     at walker-github-ranger. -->
+<!--
+| **Repo PoC**     | <One or more humans>  |
+| **Repo Oncall**  | <Link to PagerDuty>   |
+| **Repo Team Owner** | <Name of owning team> |
+-->
+
+
 ![govend](art/govend.png)
 
 # govend [![GoDoc](http://godoc.org/github.com/govend/govend?status.png)](http://godoc.org/github.com/govend/govend) [![Build Status](http://beta.drone.io/api/badges/govend/govend/status.svg)](http://beta.drone.io/govend/govend) [![Go Report Card](http://goreportcard.com/badge/govend/govend?1)](http://goreportcard.com/report/govend/govend) [![Join the chat at https://gitter.im/govend/govend](https://badges.gitter.im/govend/govend.svg)](https://gitter.im/govend/govend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![](https://img.shields.io/badge/windows-ready-green.svg)
